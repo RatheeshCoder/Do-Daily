@@ -1,11 +1,11 @@
-
+import './styles/index.css'
 
 function App() {
  
 
   return (
     <main>
-<h1>design by ratheesh</h1>
+      
     </main>
   )
 }
