@@ -18,4 +18,5 @@ body {
           backdrop-filter: blur(40px);
   position: sticky;
   top: 0px;
+  z-index: 99999999;
 }/*# sourceMappingURL=style.css.map */
