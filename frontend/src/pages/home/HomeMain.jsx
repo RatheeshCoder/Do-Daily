@@ -1,6 +1,6 @@
 import React from 'react'
 import HeroHome from '../../components/Home/HeroHome'
-import AchievementsSection from '../../components/Home/achievements'
+import AchievementsSection from '../../components/Home/Achievements'
 const HomeMain = () => {
   return (
     <div>
