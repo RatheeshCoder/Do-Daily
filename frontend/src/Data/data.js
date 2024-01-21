@@ -87,3 +87,47 @@ export const Servies = [
 ];
 
 
+// data.js
+export const teamMembers = [
+  {
+    id: 1,
+    name: 'Jane Doe',
+    jobTitle: 'Web Developer',
+    imageSrc: 'https://i.pravatar.cc/150?img=32',
+  },
+  {
+    id: 2,
+    name: 'Jane Doe',
+    jobTitle: 'Web Developer',
+    imageSrc: 'https://i.pravatar.cc/150?img=32',
+  },
+  {
+    id: 3,
+    name: 'Jane Doe',
+    jobTitle: 'Web Developer',
+    imageSrc: 'https://i.pravatar.cc/150?img=32',
+  },
+  {
+    id: 4,
+    name: 'Jane Doe',
+    jobTitle: 'Web Developer',
+    imageSrc: 'https://i.pravatar.cc/150?img=32',
+  },
+  {
+    id: 5,
+    name: 'Jane Doe',
+    jobTitle: 'Web Developer',
+    imageSrc: 'https://i.pravatar.cc/150?img=32',
+  },
+  {
+    id: 6,
+    name: 'Jane Doe',
+    jobTitle: 'Web Developer',
+    imageSrc: 'https://i.pravatar.cc/150?img=32',
+  },
+];
+
+
+
+
+
