@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #f5f5f5;
+  margin: 1% 2% !important;
+  overflow-x: hidden;
+}
+
+.cta-nav-glass {
+  border-radius: 1.25rem;
+  background: rgba(180, 233, 255, 0.52);
+  -webkit-backdrop-filter: blur(40px);
+          backdrop-filter: blur(40px);
+  position: sticky;
+  top: 0px;
+}/*# sourceMappingURL=style.css.map */

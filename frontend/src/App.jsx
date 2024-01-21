@@ -1,13 +1,20 @@
-import './styles/index.css'
+import React from 'react';
+import './styles/style.css'
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import Navbar from './components/header/header';
+import HomeMain from './pages/home/HomeMain';
 
-function App() {
- 
 
+export default function App() {
   return (
-    <main>
+    <BrowserRouter>
+    <Navbar/>
+      <Routes>
       
-    </main>
-  )
+          <Route index element={<HomeMain />} />
+          
+        
+      </Routes>
+    </BrowserRouter>
+  );
 }
-
-export default App
