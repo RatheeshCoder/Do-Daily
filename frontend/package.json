@@ -13,10 +13,12 @@
     "@emotion/styled": "^11.11.0",
     "@mui/icons-material": "^5.15.5",
     "@mui/material": "^5.15.5",
+    "@mui/styled-engine-sc": "^6.0.0-alpha.12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.21.3",
-    "react-spring": "^9.7.3"
+    "react-spring": "^9.7.3",
+    "styled-components": "^6.1.8"
   },
   "devDependencies": {
     "@babel/core": "^7.23.7",
