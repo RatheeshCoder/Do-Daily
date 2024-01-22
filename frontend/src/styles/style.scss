@@ -7,7 +7,7 @@
 
 $primary-color :'#000';
 $secondary-color: '#fff';
-$other-color : '#B4E9FF';
+$other-color : '#4f46e5';
 
 body {
     font-family: 'Poppins', sans-serif;
@@ -20,7 +20,7 @@ body {
 
 .cta-nav-glass {
     border-radius: 1.25rem;
-    background: rgba(180, 233, 255, 0.52);
+    background:$other-color;
     backdrop-filter: blur(40px);
     position: sticky;
     top: 0px;

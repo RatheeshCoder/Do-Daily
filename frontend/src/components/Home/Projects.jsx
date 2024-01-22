@@ -11,7 +11,7 @@ const Projects = () => {
               elements of a world that doesn't care if you develop or die.</p>
           </div>
           <div>
-            <div className="mt-10">
+            <div className="mt-10 mb-20">
               {/* Decorative image grid */}
               <div aria-hidden="true" className="pointer-events-none lg:absolute lg:inset-y-0 lg:mx-auto lg:w-full lg:max-w-7xl">
                 <div className="absolute transform sm:left-1/2 sm:top-0 sm:translate-x-8 lg:left-1/2 lg:top-1/2 lg:-translate-y-1/2 lg:translate-x-8">

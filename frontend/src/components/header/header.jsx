@@ -77,7 +77,7 @@ const Navbar = () => {
                             </Link>
                         </li>
                         <li>
-                            <Link to="/" className="block py-2 pl-3 pr-4 text-black rounded lg:text-black lg:p-0 dark:text-black" aria-current="page">
+                            <Link to="/About Us" className="block py-2 pl-3 pr-4 text-black rounded lg:text-black lg:p-0 dark:text-black" aria-current="page">
                                 About Us
                             </Link>
                         </li>

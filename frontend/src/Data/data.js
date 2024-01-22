@@ -128,6 +128,36 @@ export const teamMembers = [
 ];
 
 
+export const AboutSteps = [
+  {
+    number: 1,
+    headline: "Headline 1",
+    content: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+  },
+  {
+    number: 2,
+    headline: "Headline 2",
+    content: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+  },
+  {
+    number: 3,
+    headline: "Headline 3",
+    content: "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+  },
+];
 
+
+
+// data.js
+export const logosData = [
+  { src: 'https://cruip-tutorials.vercel.app/logo-carousel/facebook.svg', alt: 'Facebook' },
+  { src: 'https://cruip-tutorials.vercel.app/logo-carousel/disney.svg', alt: 'Disney' },
+  { src: 'https://cruip-tutorials.vercel.app/logo-carousel/airbnb.svg', alt: 'Airbnb' },
+  { src: 'https://cruip-tutorials.vercel.app/logo-carousel/apple.svg', alt: 'Apple' },
+  { src: 'https://cruip-tutorials.vercel.app/logo-carousel/spark.svg', alt: 'Spark' },
+  { src: 'https://cruip-tutorials.vercel.app/logo-carousel/samsung.svg', alt: 'Samsung' },
+  { src: 'https://cruip-tutorials.vercel.app/logo-carousel/quora.svg', alt: 'Quora' },
+  { src: 'https://cruip-tutorials.vercel.app/logo-carousel/sass.svg', alt: 'Sass' },
+];
 
 
