@@ -2,7 +2,7 @@ import React from 'react';
 
 const FooterCTA = () => {
     return (
-        <section className="relative z-10 px-8 py-16 mt-20 overflow-hidden bg-indigo-600">
+        <section className="relative z-10 px-8 py-16 overflow-hidden bg-indigo-600">
             <div className="container">
                 <div className="flex flex-wrap items-center -mx-4">
                     <div className="w-full px-4 lg:w-1/2">
